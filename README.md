@@ -25,7 +25,7 @@ Before you begin, ensure you have the following installed on your system:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/JesseBui/TranscribeAndTranslate.git](https://github.com/JesseBui/TranscribeAndTranslate.git)
+    git clone https://github.com/JesseBui/TranscribeAndTranslate.git
     cd TranscribeAndTranslate
     ```
 
