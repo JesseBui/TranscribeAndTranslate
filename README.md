@@ -4,7 +4,7 @@ A Python-based tool designed to transcribe audio content into text and translate
 
 ## 💡 Why I Built This
 
-I am currently learning French by listening to podcasts, but I found that most of them do not have subtitles or transcripts. I built this tool to generate my own subtitles automatically so I can read along while I listen and improve my language skills.
+I am currently learning French by listening to podcasts, but I found that most of them do not have subtitles or transcripts. I make to generate my own subtitles automatically so I can read along while I listen and improve my language skills.
 
 ## 🚀 Features
 
@@ -54,6 +54,16 @@ Before you begin, ensure you have the following installed on your system:
     pip install -r requirements.txt
     ```
 
+## ⚙️ Configuration
+
+You need to set up your API key before running the script.
+
+1.  Create a file named `.env` in the root directory of the project.
+2.  Open the file and add your API key like this:
+    ```env
+    OPENAI_API_KEY=your_api_key_here
+    ```
+
 ## 💻 Usage
 
 1.  Place your audio/video files (e.g., mp3, mp4, wav) in the **input** folder (created by the setup script).
@@ -62,3 +72,7 @@ Before you begin, ensure you have the following installed on your system:
     python main.py
     ```
 3.  Check the **output** folder for your generated transcripts and translations.
+
+## 📄 License
+
+This project is open source
