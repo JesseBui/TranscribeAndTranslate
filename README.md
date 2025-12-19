@@ -1,10 +1,10 @@
 # TranscribeAndTranslate
 
-A Python-based tool designed to transcribe audio content into text and translate it into different languages.
+A Python-based script designed to transcribe audio content into text and translate it into different languages.
 
 ## 💡 Why I Built This
 
-I am currently learning French by listening to podcasts, but I found that most of them do not have subtitles or transcripts. I make to generate my own subtitles automatically so I can read along while I listen and improve my language skills.
+I am currently learning French by listening to podcasts, but I found that most of them do not have subtitles or transcripts. I make this script to generate my own subtitles automatically so I can understand what they are saying
 
 ## 🚀 Features
 
